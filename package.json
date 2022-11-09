@@ -1,0 +1,25 @@
+{
+  "name": "telebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebascantini/Shopping-List.git"
+  },
+  "author": "Sebastian Cantini Budden",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebascantini/Shopping-List/issues"
+  },
+  "homepage": "https://github.com/sebascantini/Shopping-List#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mariadb": "^3.0.2",
+    "telebot": "^1.4.1"
+  }
+}
